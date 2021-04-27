@@ -1,4 +1,4 @@
 # hello-world
-May first public repository
+My first public repository
 
 Hello! I'm new to github :-)
